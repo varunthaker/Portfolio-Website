@@ -1,6 +1,6 @@
 # Portfolio Website
  
-It's a personal portfolio website, describes about me, my skills and carrier path.
+Personal portfolio website describes about me, my skills and carrier path.
 
 ## Tech Stack
 
@@ -28,4 +28,4 @@ I will update the project section in website soon.
 
 ## Feedback
 
-Any feedback, suggestions and updates are welcome
+Any feedback, suggestions and updates are welcome!
