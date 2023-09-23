@@ -249,6 +249,7 @@ background-color:#ff6c70;
 
 .project img {
   width: 100%;
+  aspect-ratio: 1/1;
   border-radius: 10px;
   display: block;
   position: relative;
